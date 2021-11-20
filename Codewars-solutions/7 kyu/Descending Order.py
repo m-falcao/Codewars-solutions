@@ -16,4 +16,3 @@ def descending_order(num):
     for i in num:
         bigger_num += i
     return int(bigger_num)
-print(descending_order(123456789))
